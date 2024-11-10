@@ -2,6 +2,7 @@
     "tilejson": "3.0.0",
     "tiles": ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"],
     "format": "png",
+    "tileSize": 256,
     "description": "OpenStreetMap",
     "attribution": "(c) OpenStreetMap contributors, CC-BY-SA",
     "bounds": "-180,-85.0511,180,85.0511", 
